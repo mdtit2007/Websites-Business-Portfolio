@@ -3,30 +3,30 @@ import React from 'react'
 
 
 const starts =[
-   { number: "1", label: "A", icon: TrendingUp},
-   { number: "2", label: "B", icon: Users},
-   { number: "3", label: "C", icon: Award},
-   { number: "4", label: "D", icon: Shield},
+   { number: "500+", label: "Projects Delivered", icon: TrendingUp},
+   { number: "150+", label: "Happy Clients", icon: Users},
+   { number: "8+", label: "Yeahs Experience", icon: Award},
+   { number: "99%", label: "Success Rate", icon: Shield},
 ];
 const values =[
    { icon: Target,
-     title: "A",
-     description: "TrendingUp",
+     title: "Strategic Vision",
+     description: "We are driven by a clear strategic vision that aligns with our clients' goals and aspirations.",
      color:"from-purple-500 to-pink-500"},
 
    { icon: Users,
-     title: "b",
-     description: "TrendingUp",
+     title: "Collaborative Spirit",
+     description: "Your success is our success. We work closely with you to understand your needs and deliver solutions that exceed expectations.",
      color:"from-blue-500 to-cyan-500"},
 
    { icon: Zap,
-     title: "c",
-     description: "TrendingUp",
+     title: "Innovation Focus",
+     description: "We embrace cutting-edge technologies and innovative approaches to stay ahead in the ever-evolving digital landscape.",
      color:" from-green-500 to-teal-500"},
 
    { icon: Award,
-     title: "d",
-     description: "TrendingUp",
+     title: "Quality Excellence",
+     description: "Every pixel matters. We are committed to delivering high-quality work that reflects our dedication to excellence.",
      color:"from-yellow-500 to-orange-500 "},
 ];
 
@@ -48,7 +48,7 @@ function About() {
                     <div className='inline-flex items-center px-4 py-2 bg-gradient-to-r
                     from-purile-600 to-pink-100 rounded-full mb-6'>
                         <span>
-                            About Nexus
+                            About MDTIT
                         </span>
                     </div>
                     <h2 className='text-4xl md:text-5xl font-bold text-gray-900 mb-6'>Crafting Digital{" "}
@@ -57,7 +57,7 @@ function About() {
                         </span>
                     </h2>
                     <p className='text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed'>
-                        we
+                        We are a passionate team of designers, developers, and strategists dedicated to creating
 
                     </p>
                 </div>

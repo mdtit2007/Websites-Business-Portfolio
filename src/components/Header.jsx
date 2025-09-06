@@ -58,7 +58,7 @@ function Header() {
               return (
                 <button
                   key={item}
-                  onClick={() => handleScroll(item)}
+                  onClick={() => scrollToSection(item)}
                   className={
                     "capitalize font-medium transition-all duration-300 hover:scale-105 relative group " +
                     (scrolled ? "text-gray-700 hover:text-purple-600" : "text-white hover:text-purple-500")

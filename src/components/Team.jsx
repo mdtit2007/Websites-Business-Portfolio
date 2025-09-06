@@ -175,19 +175,18 @@ function Team() {
                                              hover:scale-125 hover:rotate-12 transition-all duration-300 shadow-lg hover:shadow-xl'>
                                                 <Linkedin size={16} className='text-white group-hover:social:scale-110 transition-all' />
                                             </a>
-                                             <a href={Member.social.facebook} className='group/social w-10 h-10 bg-gradient-to-r from-blue-500
-                                             to-blue-600 rounded-2xl flex items-center justify-center
+                                             <a href={Member.social.facebook} className='group/social w-10 h-10 bg-gradient-to-r from-sky-400
+                                             to-sky-500 rounded-2xl flex items-center justify-center
                                              hover:scale-125 hover:rotate-12 transition-all duration-300 shadow-lg hover:shadow-xl'>
                                                 <Facebook size={16} className='text-white group-hover:social:scale-110 transition-all' />
                                             </a>
-                                             <a href={Member.social.github} className='group/social w-10 h-10 bg-gradient-to-r from-blue-500
-                                             to-blue-600 rounded-2xl flex items-center justify-center
+                                             <a href={Member.social.github} className='group/social w-10 h-10 bg-gradient-to-r from-gray-700
+                                             to-gray-800 rounded-2xl flex items-center justify-center
                                              hover:scale-125 hover:rotate-12 transition-all duration-300 shadow-lg hover:shadow-xl'>
                                                 <Github size={16} className='text-white group-hover:social:scale-110 transition-all' />
                                             </a>
-                                             <a href={Member.social.Mail} className='group/social w-10 h-10 bg-gradient-to-r from-blue-500
-                                             to-blue-600 rounded-2xl flex items-center justify-center
-                                             hover:scale-125 hover:rotate-12 transition-all duration-300 shadow-lg hover:shadow-xl'>
+                                             <a href={Member.social.Mail} className={`group/social w-10 h-10 bg-gradient-to-r rounded-2xl flex items-center justify-center
+                                             hover:scale-125 hover:rotate-12 transition-all duration-300 shadow-lg hover:shadow-xl ${Member.gradient}`}>
                                                 <Mail size={16} className='text-white group-hover:social:scale-110 transition-all' />
                                             </a>
                                             </div>             
