@@ -24,7 +24,7 @@ const teamMember =[
     name:"Nguyen Duc Long",
     role:"Backend Developer",
     image:
-    "https://scontent.fhan5-2.fna.fbcdn.net/v/t39.30808-6/539766030_1511889973496173_3271295422205621142_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Hk3OKF-sAi0Q7kNvwFLrToy&_nc_oc=AdnnZGwlWTNf-P0TmNn5jzkTcFnvHwABe87zyHeQY0GqCd67Q8U0O_Nb9eWvjxP6wvU&_nc_zt=23&_nc_ht=scontent.fhan5-2.fna&_nc_gid=ItV84uk75R0HtGCwl_0rMg&oh=00_AfVsVuju5ufY_c5-bXGBfAOb5alki4jK8m0VWB7p2fIyKg&oe=68BB37E0",
+    "https://i.imgur.com/G0EO0BO.jpeg",
     bio:"Backend",
     specialties:["Next.js"," Java"," Docker","Express.js"],
     social:{
@@ -42,7 +42,7 @@ const teamMember =[
     name:"Do Trung Kien",
     role:"Frontend Developer",
     image:
-    "https://scontent.fhan5-9.fna.fbcdn.net/v/t39.30808-6/429757725_1091076238861607_6519345593451884391_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=n44sUw4buA4Q7kNvwH6PWtc&_nc_oc=AdmHhDaBZirf95BJ9OkcoAJuDNyoNKg0HYOPS57GIT1a0m5fAOFBD31ca_1xQOK5Y-A&_nc_zt=23&_nc_ht=scontent.fhan5-9.fna&_nc_gid=yuVASo1Mvlac2WCdaDhC1w&oh=00_AfUfnNhO7-kqEOvvSVqfWJbT-1efK_j-1z-NJjdmMRPlEw&oe=68BB2C91",
+    "https://i.imgur.com/VAcrbyS.jpeg",
     bio:"Front-end",
     specialties:["React/Next.js"," Tailwindcss"," JavaScript"],
     social:{
@@ -60,7 +60,7 @@ const teamMember =[
     name:"Than Thi Thuy Linh",
     role:"Designer",
     image:
-    "https://scontent.fhan5-11.fna.fbcdn.net/v/t39.30808-6/537226630_1336942941155415_4512837403775247080_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=OqwKvoCmMtgQ7kNvwEJCVAY&_nc_oc=AdneJ7DKjtfhl8Xrp7MGhyhbbzYvA6IlvaZUCYBkcd33vIdrBaDb6xUxMstXVXnpwX0&_nc_zt=23&_nc_ht=scontent.fhan5-11.fna&_nc_gid=wPUVe81NbWqc3nZciR6whQ&oh=00_AfWF5fLvd8P4nZWMf1ZzWW2zB0JAWgYiP4b2kon0L21gsA&oe=68BB3F64",
+    "https://i.imgur.com/bdJg9oo.jpeg",
     bio:"Design",
     specialties:["Photoshop"," Canva"," Codraw"],
     social:{
